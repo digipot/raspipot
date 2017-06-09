@@ -1,3 +1,3 @@
 # raspipot
-future repos
+future repository
 for raspipot.com/software
